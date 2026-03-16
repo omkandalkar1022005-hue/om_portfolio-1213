@@ -145,4 +145,4 @@ This is my personal portfolio website designed to showcase my skills, projects, 
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/omkandalkar1022005-hue/portfolio.git
+git clone https://om-rk-portfolio.edgeone.cool/?eo_token=684a760bde82efe4466c3ade5c6092f0&eo_time=1773652760
